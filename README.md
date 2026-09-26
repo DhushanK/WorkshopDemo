@@ -1,4 +1,4 @@
 # WorkshopDemo
 - Workshop Demo
-Luca Pelletier
+- Luca Pelletier
 - Dhushan Kiritharan
