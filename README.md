@@ -1,7 +1,4 @@
 # WorkshopDemo
 - Workshop Demo
-<<<<<<< HEAD
-Luca Pelletier
-=======
+- Luca Pelletier
 - Dhushan Kiritharan
->>>>>>> main
